@@ -6,6 +6,9 @@ SKT ALEPH 교육 과정에서 Python 기초 문법과 라이브러리 활용 방
 직접 작성한 Python 코드와 실행 결과를 GitHub에 기록합니다.
 
 ## 현재 학습 내용
+- Python 파일 : agent_core/main.py
+- 실행 방법 : Mac 터미널에서 'python3 agent_core/main.py'
+- 현재 결과 : 10
 - Python 변수, 조건문, 반복문
 - 조건에 맞는 값 계산 및 개수 세기
 - Python 가상환경(.venv) 생성 및 활용

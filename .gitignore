@@ -12,3 +12,6 @@ __pycache__/
 
 # macOS 자동 생성 파일
 .DS_Store
+
+# Python 파일을 주피터 프로그램으로 열면 저절로 생기는 백업 폴더
+.ipynb_checkpoints/
